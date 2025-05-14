@@ -11,7 +11,6 @@
 <body>
     <header>
         <nav class="navbar">
-            <a href="#" class="logo">L'Atelier du Bois</a>
             <div class="nav-links ">
                 <ul>
                     <li class="active"><a href="index.php">Accueil</a></li>
